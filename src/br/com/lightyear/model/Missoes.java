@@ -5,7 +5,7 @@ package br.com.lightyear.model;
  * Cada missão contém informações sobre seu objetivo, área de impacto, tecnologia utilizada,
  * ODS relacionado, prioridade e status atual.
  *
- * @author Seu Nome
+ *
  * @version 1.0
  */
 public class Missoes {
